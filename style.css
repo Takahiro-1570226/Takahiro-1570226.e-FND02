@@ -24,6 +24,7 @@ select {
   border: 2px solid  rgb(194, 106, 51);
   border-radius: 5px;
   background-color: rgb(243, 218, 180);
+  width: 600px;
   font-weight: bold;
 
 }
